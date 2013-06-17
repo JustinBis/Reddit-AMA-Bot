@@ -1,0 +1,7 @@
+Reddit AMA Table Bot
+
+Setup:
+
+Rename 'settings.py.template' to 'settings.py'
+Open settings.py and set your username, password, and a unique user agent identifier.
+Run amabot.py and watch it table those AMAs!

@@ -225,4 +225,4 @@ praw-master/
 *.html
 
 # Ignore settings.py (since it's been commited with fake vars)
-
+settings.py
